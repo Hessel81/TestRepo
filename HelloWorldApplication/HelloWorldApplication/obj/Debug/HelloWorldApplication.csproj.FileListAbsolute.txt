@@ -1,0 +1,8 @@
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.Form1.resources
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.Properties.Resources.resources
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.csproj.GenerateResource.Cache
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+C:\Users\Жуков\TestRepo\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
